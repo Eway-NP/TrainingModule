@@ -1,0 +1,5 @@
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.Infrastructure\bin\Debug\WKFramework.Infrastructure.dll
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.Infrastructure\bin\Debug\WKFramework.Infrastructure.pdb
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.Infrastructure\obj\Debug\WKFramework.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.Infrastructure\obj\Debug\WKFramework.Infrastructure.dll
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.Infrastructure\obj\Debug\WKFramework.Infrastructure.pdb

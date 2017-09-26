@@ -1,0 +1,5 @@
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.CommonServices\bin\Debug\WK.Framework.CommonServices.dll
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.CommonServices\bin\Debug\WK.Framework.CommonServices.pdb
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.CommonServices\obj\Debug\WKFramework.CommonServices.csprojResolveAssemblyReference.cache
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.CommonServices\obj\Debug\WK.Framework.CommonServices.dll
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.CommonServices\obj\Debug\WK.Framework.CommonServices.pdb

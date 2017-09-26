@@ -1,0 +1,4 @@
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.Models\bin\Debug\WK.Framework.Models.dll
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.Models\bin\Debug\WK.Framework.Models.pdb
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.Models\obj\Debug\WK.Framework.Models.dll
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.Models\obj\Debug\WK.Framework.Models.pdb

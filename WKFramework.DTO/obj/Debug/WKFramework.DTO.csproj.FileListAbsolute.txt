@@ -1,0 +1,4 @@
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.DTO\bin\Debug\WK.Framework.DTO.dll
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.DTO\bin\Debug\WK.Framework.DTO.pdb
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.DTO\obj\Debug\WK.Framework.DTO.dll
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WKFramework.DTO\obj\Debug\WK.Framework.DTO.pdb

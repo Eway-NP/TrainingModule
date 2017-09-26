@@ -1,0 +1,5 @@
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WK.Framework.DTO\bin\Debug\WK.Framework.DTO.dll
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WK.Framework.DTO\bin\Debug\WK.Framework.DTO.pdb
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WK.Framework.DTO\obj\Debug\WK.Framework.DTO.csprojResolveAssemblyReference.cache
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WK.Framework.DTO\obj\Debug\WK.Framework.DTO.dll
+C:\Users\wcw\Documents\Visual Studio 2013\Projects\WKFramework\WK.Framework.DTO\obj\Debug\WK.Framework.DTO.pdb
